@@ -20,6 +20,7 @@ Python/Java/C++/Matlab
 #### 🔧 Tools
 -------------
 Version Control(Git/it-Flow)
+
 Robotic Process Automation (UiPath)
 
 #### 💡 Projects
@@ -28,6 +29,9 @@ Robotic Process Automation (UiPath)
 #### 🔗 Get in touch
 -------------
 Personal site: 
+
 Dev.to: 
+
 StackOverflow: 
+
 Medium: 
