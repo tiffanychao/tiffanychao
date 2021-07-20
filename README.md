@@ -1,16 +1,26 @@
-### Hi there 👋
+ChihFan Chao #tiffanychao
+Hi, I'm ChihFan! You can also call me Tiffany. 
 
-<!--
-**tiffanychao/tiffanychao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 My values
+🍏 Be curious about everything
+🙌 Keep learning
 
-Here are some ideas to get you started:
+🔭 Goals of 2021
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🧠 That I know and use
+📚 Langues and Frameworks
+HTML/CSS/JavaScript/React/Vue
+Python/Java/C++/Matlab
+
+🔧 Tool
+Version Control(Git/it-Flow)
+Robotic Process Automation (UiPath)
+
+💡 Projects
+
+🔗 Get in touch
+Personal site: 
+Dev.to: 
+StackOverflow: 
+Medium: 
