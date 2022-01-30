@@ -2,26 +2,24 @@
 -------------
 Hi, I'm ChihFan! You can also call me Tiffany. 
 
-#### My values
--------------
-##### 🍏 Be curious about everything
+####   📚 My values
 
-##### 🙌 Keep learning
+&nbsp; 🍏 Be curious about everything
 
-#### 🔭 Goals of 2022
--------------
+&nbsp; 🙌 Keep learning
+
+#### 📚 Goals of 2022
+
 
 #### 📚 Langues and Frameworks
--------------
-HTML/CSS/JavaScript/React/Django
 
-Python/Java/C++/Matlab
+&nbsp; HTML/CSS/JavaScript/React/Django
+<br>&nbsp; Python/Java/C++/Matlab
 
 #### 🔧 Tools
--------------
-Version Control(Git/it-Flow)
 
-Robotic Process Automation (UiPath)
+&nbsp;Version Control(Git/it-Flow)
+<br>&nbsp;Robotic Process Automation (UiPath)
 
 #### 💡 Projects
 -------------
@@ -29,9 +27,4 @@ Robotic Process Automation (UiPath)
 #### 🔗 Get in touch
 -------------
 Personal site: 
-
-Dev.to: 
-
-StackOverflow: 
-
-Medium: 
+<br>Medium: 
