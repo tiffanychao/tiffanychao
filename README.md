@@ -8,12 +8,12 @@ Hi, I'm ChihFan! You can also call me Tiffany.
 
 ##### 🙌 Keep learning
 
-#### 🔭 Goals of 2021
+#### 🔭 Goals of 2022
 -------------
 
 #### 📚 Langues and Frameworks
 -------------
-HTML/CSS/JavaScript/React/Vue
+HTML/CSS/JavaScript/React/Django
 
 Python/Java/C++/Matlab
 
